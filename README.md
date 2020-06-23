@@ -6,3 +6,7 @@ Problem Statement :- To build an image tagging deep learning model that can help
 Dataset details :- The dataset consists of 364 images belonging to 8 categories, namely manipuri, bharatanatyam, odissi, kathakali, kathak, sattriya, kuchipudi, and mohiniyattam.
 
 Used VGG19 Model to perform Transfer Learning
+
+<i>Sample Image : Indian Classical Kathak Dance Form</i>
+
+<img src="1.jpg" alt="Classical Kathak Dance">
