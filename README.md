@@ -1,4 +1,4 @@
-# Image_classification_using_transfer_learning
+# Multi-Class_Image_classification_using_transfer_learning
 <strong>Hackerearth Deep Learning Challenge to classify images of indian classical dance form into 8 different categories</strong>
 
 Problem Statement :- To build an image tagging deep learning model that can helpy to classify these images into 8 categories of indian classical dance.
